@@ -1,10 +1,17 @@
 👋 Hi, I'm Ajay – A Data Science Enthusiast!
-Welcome to my GitHub! I’m an aspiring Data Scientist passionate about transforming data into meaningful insights. I’m currently learning the latest tools and techniques in machine learning, data analysis, and statistical modeling to build real-world solutions.
+
+Welcome to my GitHub! I’m an aspiring Data Scientist passionate about transforming data into meaningful insights. 
+I’m currently learning the latest tools and techniques in machine learning, data analysis, and statistical modeling to build real-world solutions.
+
 💡 About Me
 🎓 Education: B.E.ELECTRICAL AND ELECTRONICS ENGINEERING, KONGU ENGINEERING COLLEGE.
+
 🔭 Current Focus: Exploring machine learning algorithms, data visualization, and data preprocessing techniques.
+
 💻 Tech Stack: Python (Pandas, NumPy, Scikit-learn), SQL, Jupyter Notebooks, Matplotlib, Seaborn.
+
 🌱 Learning: Diving deeper into supervised learning, neural networks, and deep learning models.
+
 💬 Connect with Me:
 LinkedIn:
 Email:tajaythakr73@gmail.com
