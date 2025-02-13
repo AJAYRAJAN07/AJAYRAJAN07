@@ -1,44 +1,39 @@
-👋 Hi, I'm Ajay – A Data Science Enthusiast!
+Hi there, I'm Ajay! 👋
+🔍 I’m currently working on: A data-driven e-commerce sales analytics project, using Python, SQL, and Power BI to uncover key business insights and improve decision-making.
 
-Welcome to my GitHub! I’m an aspiring Data Scientist passionate about transforming data into meaningful insights. 
-I’m currently learning the latest tools and techniques in machine learning, data analysis, and statistical modeling to build real-world solutions.
+📊 Key focus areas: Data visualization, predictive modeling, SQL queries, and statistical analysis.
 
-💡 About Me
-🎓 Education: B.E.ELECTRICAL AND ELECTRONICS ENGINEERING, KONGU ENGINEERING COLLEGE.
+🌱 I’m currently learning:
 
-🔭 Current Focus: Exploring machine learning algorithms, data visualization, and data preprocessing techniques.
+Advanced SQL for data analytics
+Machine learning for data-driven decision-making
+Power BI for interactive dashboard creation
+Python automation for ETL processes
+🤝 I’m looking to collaborate on:
 
-💻 Tech Stack: Python (Pandas, NumPy, Scikit-learn), SQL, Jupyter Notebooks, Matplotlib, Seaborn.
+Data analytics projects using SQL, Pandas, and Power BI
+Machine learning models for business insights
+Automating data cleaning and transformation tasks
+💡 Ask me about:
 
-🌱 Learning: Diving deeper into supervised learning, neural networks, and deep learning models.
+Writing optimized SQL queries
+Building Power BI dashboards
+Performing exploratory data analysis (EDA)
+Using Python for data science
+🛠️ Skills & Tools
+🚀 Programming & Querying: Python (Pandas, NumPy, Matplotlib), SQL
+📊 Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
+🧮 Data Science & Analytics: Statistics, Machine Learning, Predictive Modeling
+💾 Databases: MySQL, PostgreSQL, SQLite
+⚙️ Data Engineering: ETL Pipelines, Data Cleaning, Automation
+📡 Big Data & Cloud: Google BigQuery, AWS RDS
 
-💬 Connect with Me:
-LinkedIn:
-Email:tajaythakr73@gmail.com
+📫 How to reach me:
+📧 Email: tajaythakur73@gmail.com
+💼 LinkedIn: https://linkedin.com/in/ajay-r-3196ab26b/
+📂 GitHub: https://github.com/AJAYRAJAN07
 
-📂 My Projects
-1. 🏡 Housing Price Prediction
-Description: Built a machine learning model to predict house prices based on features like square footage, number of rooms, etc.
-Tech Stack: Python, Pandas, Scikit-learn.
-GitHub Repo: [Link to Repo]
+😄 Pronouns: He/Him
 
-2. 📊 Exploratory Data Analysis (EDA) on Sales Data
-Description: Performed EDA to uncover insights from an e-commerce sales dataset. Visualized trends, seasonality, and key metrics.
-Tech Stack: Python, Pandas, Matplotlib, Seaborn.
-GitHub Repo: [Link to Repo]
+⚡ Fun fact: I love solving real-world problems with data, and I’m passionate about sports analytics, using data to predict match outcomes!
 
-4. 🏥 Healthcare Data Analysis
-Description: Cleaned and analyzed healthcare data to identify trends and predict patient outcomes.
-Tech Stack: Python, SQL, Pandas.
-GitHub Repo: [Link to Repo]
-
-🛠️ Tools & Technologies
-Languages: Python, SQL
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-Databases: MySQL, SQLite
-Version Control: Git, GitHub
-
-📚 Learning Path
-Machine Learning: Understanding supervised and unsupervised learning algorithms.
-Data Visualization: Creating insightful visualizations using tools like Matplotlib and Seaborn.
-SQL: Writing optimized queries to handle and extract insights from large datasets.
